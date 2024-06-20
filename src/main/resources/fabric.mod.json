@@ -4,7 +4,7 @@
   "version": "${version}",
   "name": "CHANGE",
   "description": "",
-  "authors": [],
+  "authors": ["Neapovil"],
   "contact": {},
   "license": "Unlicense",
   "icon": "assets/change/icon.png",
